@@ -1,0 +1,9 @@
+body {
+  background-color: gray;
+}
+#title {
+  color: aliceblue;
+}
+input:hover {
+  border: 6px solid rgba(226, 94, 109, 0.801);
+}
